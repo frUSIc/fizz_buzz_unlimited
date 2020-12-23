@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37f822e8-8812-498a-8bca-35d83b63623d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1m3WcfuufdFbN8Kqz51kRjyH4lB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\My Documents\My Career\Projects\fizz_buzz_unlimited\Java\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FizzBuzz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37f822e8-8812-498a-8bca-35d83b63623d" name="Default Changelist" comment="" />
+      <created>1608722835260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608722835260</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="227" key="#FizzBuzz" timestamp="1608723060836">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="741" y="227" key="#FizzBuzz/0.0.2048.1112@0.0.2048.1112" timestamp="1608723060836" />
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608722962195">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1608722962195" />
+    <state x="701" y="266" key="FileChooserDialogImpl" timestamp="1608722938400">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="701" y="266" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1608722938400" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1608727385747">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1608727385747" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1608727385747">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1608727385747" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1608727385747">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1608727385747" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1608727385747">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1608727385747" />
+    <state x="505" y="131" key="SettingsEditor" timestamp="1608723030170">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1608723030170" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FizzBuzz.java</url>
+          <line>24</line>
+          <properties class="FizzBuzz" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
