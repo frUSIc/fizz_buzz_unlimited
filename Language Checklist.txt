@@ -2,10 +2,10 @@ Python
 C
 Java
 JavaScript/TypeScript
+C++
 
 Assembly
 Bash
-C++
 C#
 Go
 Ruby

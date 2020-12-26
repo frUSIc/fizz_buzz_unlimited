@@ -2,6 +2,25 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Function declarations
+int getNum(void);
+char* divisible(int);
+
+// Main
+void main(void){
+    int maxNum = getNum();
+    char* string;
+    // Loop
+    for (int i = 1; i <= maxNum; i++){
+        string = divisible(i);
+        if (string != NULL){
+            printf("%s\n", string);
+        } else {
+            printf("%d\n", i);
+        }
+    }
+}
+
 // Gets the max num from reading stdin
 int getNum(void){
     char buffer[10];
@@ -23,19 +42,3 @@ char* divisible(int i){
     }
     return NULL;
 }
-
-// Main
-void main(void){
-    int maxNum = getNum();
-    char* string;
-    // Loop
-    for (int i = 1; i <= maxNum; i++){
-        string = divisible(i);
-        if (string != NULL){
-            printf("%s\n", string);
-        } else {
-            printf("%d\n", i);
-        }
-    }
-}
-
