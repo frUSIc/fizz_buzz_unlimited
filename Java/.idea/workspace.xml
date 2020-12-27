@@ -62,39 +62,29 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="701" y="266" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1608722938400" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1608727385747">
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1609067648633">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1608727385747" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1608727385747">
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1609067648633" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1609067648633">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1608727385747" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1608727385747">
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1609067648633" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1609067648633">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1608727385747" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1608727385747">
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1609067648633" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1609067648633">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1608727385747" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1609067648633" />
     <state x="505" y="131" key="SettingsEditor" timestamp="1608723030170">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="505" y="131" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1608723030170" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/FizzBuzz.java</url>
-          <line>24</line>
-          <properties class="FizzBuzz" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="721" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1609067616633">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="721" y="380" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1609067616633" />
   </component>
 </project>
