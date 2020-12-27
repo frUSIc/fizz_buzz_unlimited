@@ -4,6 +4,7 @@ Java
 JavaScript/TypeScript
 C++
 C#
+MATLAB
 
 Assembly
 Bash
@@ -11,6 +12,5 @@ Go
 Ruby
 Haskell
 Lua
-MATLAB
 PHP
 Rust
