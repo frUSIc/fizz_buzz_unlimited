@@ -5,12 +5,14 @@ JavaScript/TypeScript
 C++
 C#
 MATLAB
+Go
 
 Assembly
 Bash
-Go
 Ruby
 Haskell
 Lua
 PHP
 Rust
+Swift
+COBOL
