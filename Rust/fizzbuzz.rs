@@ -1,17 +1,21 @@
+/*
+Compile with rustc fizzbuzz.rs
+Run with ./fizzbuzz
+*/
+
 use std::io::Write;
 
 // Logic
 fn divisible(i:u32) -> String {
     if i%3 == 0 && i%5 == 0 {
         return "fizzBuzz".to_string();
-    }
-    if i%3 == 0 {
+    } else if i%3 == 0 {
         return "fizz".to_string();
-    }
-    if i%5 == 0 {
+    } else if i%5 == 0 {
         return "Buzz".to_string();
+    } else {
+        return i.to_string();
     }
-    return i.to_string();
 }
 
 // Main

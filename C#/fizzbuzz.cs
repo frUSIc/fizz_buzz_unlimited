@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+Run via Visual Studio 2019
+*/
+
+using System;
 
 namespace FizzBuzz
 {
@@ -10,15 +14,18 @@ namespace FizzBuzz
             {
                 return "fizzBuzz";
             }
-            if (i % 3 == 0)
+            else if (i % 3 == 0)
             {
                 return "fizz";
             }
-            if (i % 5 == 0)
+            else if (i % 5 == 0)
             {
                 return "Buzz";
             }
-            return i.ToString();
+            else
+            {
+                return i.ToString();
+            }
         }
 
         static void Main()

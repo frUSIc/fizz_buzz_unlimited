@@ -1,3 +1,8 @@
+/*
+Compile with gcc fizzbuzz.c -o fizzbuzz
+Run with ./fizzbuzz
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -34,11 +39,12 @@ char* divisible(int i){
     if (i%3 == 0 && i%5 == 0){
         return "fizzBuzz";
     }
-    if (i%3 == 0){
+    else if (i%3 == 0){
         return "fizz";
     }
-    if (i%5 == 0){
+    else if (i%5 == 0){
         return "Buzz";
+    } else {
+        return NULL;
     }
-    return NULL;
 }

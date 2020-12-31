@@ -1,3 +1,7 @@
+%{
+Run with MATLAB
+%}
+
 function [] = fizzbuzz()
 
     % Loop
@@ -13,16 +17,15 @@ function [] = fizzbuzz()
         if mod(i,3) == 0 && mod(i,5) == 0
             string = "fizzBuzz";
             return
-        end
-        if mod(i,3) == 0
+        elseif mod(i,3) == 0
             string = "fizz";
             return
-        end
-        if mod(i,5) == 0
+        elseif mod(i,5) == 0
             string = "Buzz";
             return
+        else
+            string = int2str(i);
         end
-        string = int2str(i);
     end
 
     % Main

@@ -1,3 +1,8 @@
+/*
+Compile with g++ fizzbuzz.cpp -o fizzbuzz
+Run with ./fizzbuzz
+*/
+
 #include <iostream>
 #include <string>
 
@@ -12,13 +17,15 @@ string divisible(int i){
     if (i%3 == 0 && i%5 == 0){
         return "fizzBuzz";
     }
-    if (i%3 == 0){
+    else if (i%3 == 0){
         return "fizz";
     }
-    if (i%5 == 0){
+    else if (i%5 == 0){
         return "Buzz";
     }
-    return std::to_string(i);
+    else {
+        return std::to_string(i);
+    }
 }
 
 // main() is where program execution begins.

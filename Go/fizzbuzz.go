@@ -1,3 +1,9 @@
+/*
+Run with go run fizzbuzz.go
+Compile with go build -o fizzbuzz
+Run with ./fizzbuzz
+*/
+
 package main
 
 import (
@@ -11,14 +17,13 @@ import (
 func divisible(i int) string{
 	if i%3 == 0 && i%5 == 0{
         return "fizzBuzz"
-	}
-    if i%3 == 0{
+	} else if i%3 == 0{
         return "fizz"
-	}
-    if i%5 == 0{
+	} else if i%5 == 0{
         return "Buzz"
+	} else {
+    	return strconv.Itoa(i)
 	}
-    return strconv.Itoa(i)
 }
 
 // Main
