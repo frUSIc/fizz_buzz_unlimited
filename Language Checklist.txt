@@ -8,9 +8,9 @@ MATLAB
 Go
 Rust
 Ruby
+Shell/Bash
 
 Assembly
-Bash
 Haskell
 Lua
 PHP
