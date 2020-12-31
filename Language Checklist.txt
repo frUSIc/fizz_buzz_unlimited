@@ -6,13 +6,13 @@ C++
 C#
 MATLAB
 Go
+Rust
+Ruby
 
 Assembly
 Bash
-Ruby
 Haskell
 Lua
 PHP
-Rust
 Swift
 COBOL
