@@ -1,3 +1,7 @@
+/*
+Run with Java IDE
+*/
+
 import java.util.Scanner;
 
 public class FizzBuzz {
@@ -5,14 +9,13 @@ public class FizzBuzz {
     private static String divisible(int i){
         if (i%3 == 0 && i%5 == 0) {
             return "fizzBuzz";
-        }
-        if (i%3 == 0){
+        } else if (i%3 == 0){
             return "fizz";
-        }
-        if (i%5 == 0){
+        } else if (i%5 == 0){
             return "Buzz";
+        } else {
+            return String.valueOf(i);
         }
-        return String.valueOf(i);
     }
 
     // Main

@@ -1,3 +1,7 @@
+"""
+Run with python3 fizzbuzz.py
+"""
+
 # Loop
 def fizzBuzz(maxNum):
     for i in range(1,maxNum+1):
@@ -7,11 +11,12 @@ def fizzBuzz(maxNum):
 def divisible(i):
     if i%3 is 0 and i%5 is 0:
         return 'fizzBuzz'
-    if i%3 is 0:
+    elif i%3 is 0:
         return 'fizz'
-    if i%5 is 0:
+    elif i%5 is 0:
         return 'Buzz'
-    return str(i)
+    else:
+        return str(i)
 
 # Main
 maxNum = int(input("Please enter max number: "))

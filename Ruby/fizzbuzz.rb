@@ -1,20 +1,23 @@
 #!/usr/bin/ruby -w
 
+=begin
+Run with ruby fizzbuzz.rb
+=end
+
 class FizzBuzz
     
     # Logic
 	def divisible(i)
         if i%3 == 0 and i%5 == 0 
             return "fizzBuzz"
-        end
-        if i%3 == 0
+        elsif i%3 == 0
             return "fizz"
-        end
-        if i%5 == 0
+        elsif i%5 == 0
             return "Buzz"
+        else
+            return i
         end
-        return i
-        end
+    end
     
     def fizzbuzz
         print "Please enter max number: "

@@ -1,3 +1,8 @@
+/*
+Transcribe to JavaScript with tsc fizzbuzz.ts
+Run with node fizzbuzz.js
+*/
+
 // Loop
 function fizzBuzz(maxNum : number) : void{
     for (let i = 1; i <= maxNum; i++){
@@ -9,14 +14,13 @@ function fizzBuzz(maxNum : number) : void{
 function divisible(i : number) : string{
     if (i%3 == 0 && i%5 == 0){
         return "fizzBuzz";
-    }
-    if (i%3 == 0){
+    } else if (i%3 == 0){
         return "fizz";
-    }
-    if (i%5 == 0){
+    } else if (i%5 == 0){
         return "Buzz";
+    } else {
+        return i.toString();
     }
-    return i.toString();
 }
 
 // Main
